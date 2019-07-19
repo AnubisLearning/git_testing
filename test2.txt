@@ -1,3 +1,4 @@
 this is a test file
 this is a input file to test compare program
 this is second test file
+trying to create a conflict
